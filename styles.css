@@ -1,0 +1,9 @@
+.thirdDiv { width: 500px; height: 600px; background-color: black; padding: 100px; border: 2px solid red; display: inline-flex; text-align: center;}
+
+.spanId {font-size: 18px; margin: 50px;}
+
+body {background-image: url(https://lh3.googleusercontent.com/proxy/uCN7QMkzWqt9Gn_fwxJ1iKH8iWiaz3a_4R-aDVyv0t8a0ne8QgkPj7TD1lUwwh2Gx4IqOZbouhaZleCchMYBjKPSDqSgFvf4xqn6gAiZeFtjerVvr8yREAA-ZbMYbeCcUmU);
+      background-size: cover;
+      color: white;
+      align-content: center;
+      text-align: center;}
